@@ -1,12 +1,11 @@
-## Why I Chose React
-Honestly it is mainly the only SPA I am familiar with
-this past summer I worked with an intern to make a front-end ui that was able to gather data from this mock backend server with static values inside it. 
-main goal was just to see if our i could get this information and display it, we also had to be sure we could also add new information into the backend.
-I didn't do too much, mainly just made a css file for a classification banner, what I focused on was making a stress tester for the actual backend server to see how many requests we could make before it broke.
+## What I enjoy
+    So far I really enjoy how much you can break up specific components and just copy and paste them into your app.jsx file, I noticed too when you add a function but don't change the state it just logs what the user had done with the event but still need to add the function
+
 ## Problems
-Main difficulty was trying to get npm to download right, nothing too bad. One problem I did have was when it was teaching about props and const variables that can hold values and you can reference them inside your app.jsx, I added those but i was also on the step where you go into the main.jsx file and add the subject="clarice" it just makes the whole page blank but I realized they were different instructions.
+I had a really problem with identifying where functions were supposed to be. for example I was putting the addList outside of my app function not realizing it kept making my local host look blank and realized everything needs to be in the app function because that is where the app is.
 
 ## Entertainment
+A horse walks into a bar.
+Several of the patrons quickly get up and leave, realizing the potential danger in the situation.
 
-Whats the deal with Ovaltine, Why do they call it Ovaltine, The Mug is Round, The Jar is Round, They should call it Roundtine...
 
